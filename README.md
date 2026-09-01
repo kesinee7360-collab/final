@@ -2,12 +2,10 @@
 เว็บไซต์ศูนย์รวมข้อมูลสัตว์แปลก (Exotic Pets) ที่ให้ความรู้เกี่ยวกับการเลี้ยงดู กฎหมายข้อบังคับ และการติดต่อซื้อขายสำหรับคนรักสัตว์แปลก
 
 ## Live Website
-*รอการอัปเดต URL เมื่อทำการ Deploy แล้ว*
-(เช่น [https://your-username.github.io/strange-animals](https://your-username.github.io/strange-animals))
+https://kesinee7360-collab.github.io/StrangeAnimals/
 
 ## Figma Design
-*รอการอัปเดต URL ของ Figma*
-(ใส่ลิงก์ Figma ของคุณที่นี่)
+https://www.figma.com/design/tyYc4YtLgqnhpNpcYuzkcQ/strangeanimals?node-id=0-1&t=Eiv9Jyh9UMQ9HIJr-1
 
 ## Project Objectives
 **วัตถุประสงค์:** 
