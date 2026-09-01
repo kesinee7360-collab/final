@@ -19,7 +19,7 @@ https://www.figma.com/design/tyYc4YtLgqnhpNpcYuzkcQ/strangeanimals?node-id=0-1&t
 - **Framework:** ไม่ใช้ Framework
 - **CSS / UI:** เขียน CSS เองทั้งหมด (Vanilla CSS) ควบคุม Layout ด้วย Flexbox/Grid
 - **Version Control:** Git และ GitHub
-- **Hosting:** GitHub Pages / Vercel (เลือกอย่างใดอย่างหนึ่งเมื่อ Deploy)
+- **Hosting:** GitHub Pages 
 - **AI Tools:** Google Gemini
 
 ## Features
